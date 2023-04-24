@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/OperatingSystem/programming_project_1/mymodule.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/OperatingSystem/programming_project_1/mymodule.ko /home/ubuntu/OperatingSystem/programming_project_1/mymodule.o /home/ubuntu/OperatingSystem/programming_project_1/mymodule.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/OperatingSystem/programming_project_1/mymodule.mod := { echo  /home/ubuntu/OperatingSystem/programming_project_1/mymodule.o;  echo; } > /home/ubuntu/OperatingSystem/programming_project_1/mymodule.mod
